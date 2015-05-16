@@ -1,0 +1,30 @@
+<div class="modal fade">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header clearfix">
+              <h4>List of Employees available in the visible area</h4>
+                <button class="close" type="button" data-dismiss="modal" aria-hidden="true">&times;</button>
+            </div>
+            
+            <div class="modal-body" >
+
+              <p ng-show="empData.length==0">No employee found for this search and zoom level.</p>               
+                <accordion close-others="oneAtATime" >
+                  <accordion-group is-open="status.open" ng-repeat="employee in empData track by $index" scroll-on-click class='accordion-group'>
+                      <accordion-heading >
+                          <span class='empTitle'  id="{{employee.feature.employeeId}}"> {{employee.feature.employeeName}}  -  {{employee.feature.employeeId}}</span> <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status.open, 'glyphicon-chevron-right': !status.open}"></i>
+                      </accordion-heading>
+                      <table class="table table-striped table-bordered employee-info-table" ng-init="empDataFields={'doj':'Date of Joining', 'yearsOfExp':'Total Experience', 'role':'Designation', 'immediateManager':'Reporting Manager', 'majorSkill':'Major Skill', 'skills':'Other Skills', 'email':'Email Id', 'mobileNumber':'Mobile Number'}">
+                        <tbody>
+                          <tr class="property-info-row"  ng-repeat="(key, value) in empDataFields">
+                            <td class="info-key">{{value}}</td>
+                            <td class="info-value">{{employee.feature[key]}}</td>
+                          </tr>
+                        </tbody>
+                      </table>
+                  </accordion-group>
+                </accordion>
+            </div>
+          </div>
+        </div>
+      </div>

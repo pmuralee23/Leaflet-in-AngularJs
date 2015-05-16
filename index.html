@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>UXM Employee Management</title>
+
+    <!-- Style sheets -->
+    <link href="css/bootstrap.css" rel="stylesheet"/>
+    <link href="css/toastr.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="js/leaflet/dist/leaflet.css">
+    <link rel="stylesheet" type="text/css" href="js/leaflet.markercluster/dist/MarkerCluster.css">
+    <link href="css/app.css" rel="stylesheet"/>
+        
+    <!-- Library Scripts -->
+    <script src="js/jquery.js"></script>
+    <script src="js/angular.js"></script>
+    <script src="js/angular-resource.js"></script>
+    <script src="js/angular-mocks.js"></script>
+    <script src="js/angular-ui-router.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/ui-utils.js"></script>
+    <script src="js/ui-bootstrap-tpls-0.11.0.js"></script>
+    <script src="js/toastr.js"></script>
+    <script src="js/d3.js"></script>
+    <script src="js/d3.geo.projection.v0.js"></script>
+    <script src="js/angular-charts.min.js"></script>
+    <script type="text/javascript" src="js/leaflet/dist/leaflet-src.js"></script>
+    <script type="text/javascript" src="js/leaflet.markercluster/dist/leaflet.markercluster-src.js"></script>
+    <script src="js/topojson.js"></script>
+
+    <!-- Application Script -->
+    <script src="app/app.js"></script>
+
+    <!-- Services -->
+    <script src="common/services/common.services.js"></script>
+    <script src="app/leafletProps/leafletService.js"></script>
+
+    <script src="app/leafletProps/leafletViewCtrl.js"></script>
+    <script type="text/javascript" src="app/leafletProps/leafletPopUp.js"></script>
+    <script type="text/javascript" src="app/leafletProps/empListView.js"></script>
+    <script type="text/javascript" src="app/leafletProps/seachFilter.js"></script>
+
+    <script type="text/javascript" src="app/d3Map/d3MapView.js"></script>
+
+</head>
+
+<body ng-app="employeeManagement">
+    <nav class="navbar navbar-inverse">
+        <div class="container">
+            <a class="navbar-brand"
+               ui-sref="home">UXM Employee Management</a>
+            <div class="navbar-header">
+                <button type="button"
+                        class="navbar-toggle"
+                        data-toggle="collapse"
+                        data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a ui-sref="leafletView">Leaflet View</a></li>
+                    <li><a ui-sref="d3MapView">D3 Map</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div ui-view></div>
+    </div>
+</body>
+
+</html>

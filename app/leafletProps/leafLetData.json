@@ -1,0 +1,537 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.37524176,
+17.44710034
+                ]
+            },
+            "employeeId": 329166,    
+            "employeeName": "Murali Mohan 1",    
+            "doj": "21-10-2013",  
+            "description":"",  
+            "yearsOfExp": 8,    
+            "skills":["AngularJS", "JQuery", "OOJS", "BackboneJS"],  
+            "majorSkill":"AngularJS",  
+            "role": "Module Lead",    
+            "email": "muralimohan.pulle@techmahindra.com",    
+            "mobileNumber": 9989192323,    
+            "immediateManager": "Bidhan Sutar",    
+            "projectAllocation":"Allocated",    
+            "projectName":"GE Commercial Finance EDW",    
+            "projectSkillDetails":["BackboneJs", "JQuery", "HTML", "CSS"],    
+            "clientsServed": ["MGM", "GE", "Carniege"],    
+            "projectsWorkedOn":["MGM Resorts", "GE Commercial Finance EDW", "AMP"],
+            "location": "Hyderabad",
+            "branch": "SEZ"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.433983,
+17.572041
+                ]
+            },
+            "employeeId": 329393,    
+            "employeeName": "Vamsi Krishna",    
+            "doj": "21-10-2013",  
+            "description":"",  
+            "yearsOfExp": 8,    
+            "skills":["BackboneJs", "JQuery", "HTML", "CSS"],  
+            "majorSkill":"AngularJS",  
+            "role": "Module Lead",    
+            "email": "muralimohan.pulle@techmahindra.com",    
+            "mobileNumber": 9989192323,    
+            "immediateManager": "Bidhan Sutar",    
+            "projectAllocation":"Allocated",    
+            "projectName":"GE Commercial Finance EDW",    
+            "projectSkillDetails":["BackboneJs", "JQuery", "HTML", "CSS"],    
+            "clientsServed": ["MGM", "GE", "Carniege"],    
+            "projectsWorkedOn":["MGM Resorts", "GE Commercial Finance EDW", "AMP"],
+            "location": "Hyderabad",
+            "branch": "SEZ"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.920608,
+18.563222
+                ]
+            },
+            "employeeId": 309392,    
+            "employeeName": "Bharathreddy",    
+            "doj": "21-10-2013",  
+            "description":"",  
+            "yearsOfExp": 8,    
+            "skills":["AngularJS", "JQuery", "OOJS", "BackboneJS"],  
+            "majorSkill":"AngularJS",  
+            "role": "Module Lead",    
+            "email": "muralimohan.pulle@techmahindra.com",    
+            "mobileNumber": 9989192323,    
+            "immediateManager": "Bidhan Sutar",    
+            "projectAllocation":"Allocated",    
+            "projectName":"GE Commercial Finance EDW",    
+            "projectSkillDetails":["BackboneJs", "JQuery", "HTML", "CSS"],    
+            "clientsServed": ["MGM", "GE", "Carniege"],    
+            "projectsWorkedOn":["MGM Resorts", "GE Commercial Finance EDW", "AMP"],
+            "location": "Hyderabad",
+            "branch": "SEZ"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.816303,
+20.310481
+                ]
+            },
+            "employeeId": 325661,    
+            "employeeName": "Madhu Jutur",    
+            "doj": "21-10-2013",  
+            "description":"",  
+            "yearsOfExp": 8,    
+            "skills":["AngularJS", "JQuery", "OOJS", "BackboneJS"],  
+            "majorSkill":"AngularJS",  
+            "role": "Module Lead",    
+            "email": "muralimohan.pulle@techmahindra.com",    
+            "mobileNumber": 9989192323,    
+            "immediateManager": "Bidhan Sutar",    
+            "projectAllocation":"Allocated",    
+            "projectName":"GE Commercial Finance EDW",    
+            "projectSkillDetails":["BackboneJs", "JQuery", "HTML", "CSS"],    
+            "clientsServed": ["MGM", "GE", "Carniege"],    
+            "projectsWorkedOn":["MGM Resorts", "GE Commercial Finance EDW", "AMP"],
+            "location": "Hyderabad",
+            "branch": "SEZ"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.48673,
+22.577782
+                ]
+            },
+            "employeeId": 323232,    
+            "employeeName": "Bidhan Sutar",    
+            "doj": "21-10-2013",  
+            "description":"",  
+            "yearsOfExp": 8,    
+            "skills":["AngularJS", "JQuery", "OOJS", "BackboneJS"],  
+            "majorSkill":"AngularJS",  
+            "role": "Module Lead",    
+            "email": "muralimohan.pulle@techmahindra.com",    
+            "mobileNumber": 9989192323,    
+            "immediateManager": "Bidhan Sutar",    
+            "projectAllocation":"Allocated",    
+            "projectName":"GE Commercial Finance EDW",    
+            "projectSkillDetails":["BackboneJs", "JQuery", "HTML", "CSS"],    
+            "clientsServed": ["MGM", "GE", "Carniege"],    
+            "projectsWorkedOn":["MGM Resorts", "GE Commercial Finance EDW", "AMP"],
+            "location": "Hyderabad",
+            "branch": "SEZ"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.631242,
+12.900054
+                ]
+            },
+            "employeeId": 329166,    
+            "employeeName": "Murali Mohan 2",    
+            "doj": "21-10-2013",  
+            "description":"",  
+            "yearsOfExp": 8,    
+            "skills":["AngularJS", "JQuery", "OOJS", "BackboneJS"],  
+            "majorSkill":"AngularJS",  
+            "role": "Module Lead",    
+            "email": "muralimohan.pulle@techmahindra.com",    
+            "mobileNumber": 9989192323,    
+            "immediateManager": "Bidhan Sutar",    
+            "projectAllocation":"Allocated",    
+            "projectName":"GE Commercial Finance EDW",    
+            "projectSkillDetails":["BackboneJs", "JQuery", "HTML", "CSS"],    
+            "clientsServed": ["MGM", "GE", "Carniege"],    
+            "projectsWorkedOn":["MGM Resorts", "GE Commercial Finance EDW", "AMP"],
+            "location": "Hyderabad",
+            "branch": "SEZ"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.631242,
+12.900054
+                ]
+            },
+            "employeeId": 329166,    
+            "employeeName": "Murali Mohan 3",    
+            "doj": "21-10-2013",  
+            "description":"",  
+            "yearsOfExp": 8,    
+            "skills":["AngularJS", "JQuery", "OOJS"],  
+            "majorSkill":"AngularJS",  
+            "role": "Module Lead",    
+            "email": "muralimohan.pulle@techmahindra.com",    
+            "mobileNumber": 9989192323,    
+            "immediateManager": "Bidhan Sutar",    
+            "projectAllocation":"Allocated",    
+            "projectName":"GE Commercial Finance EDW",    
+            "projectSkillDetails":["BackboneJs", "JQuery", "HTML", "CSS"],    
+            "clientsServed": ["MGM", "GE", "Carniege"],    
+            "projectsWorkedOn":["MGM Resorts", "GE Commercial Finance EDW", "AMP"],
+            "location": "Hyderabad",
+            "branch": "SEZ"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.37524176,
+17.44710034
+                ]
+            },
+            "employeeId": 329166,    
+            "employeeName": "Murali Mohan 4",    
+            "doj": "21-10-2013",  
+            "description":"",  
+            "yearsOfExp": 8,    
+            "skills":["AngularJS", "JQuery", "OOJS"],  
+            "majorSkill":"AngularJS",  
+            "role": "Module Lead",    
+            "email": "muralimohan.pulle@techmahindra.com",    
+            "mobileNumber": 9989192323,    
+            "immediateManager": "Bidhan Sutar",    
+            "projectAllocation":"Allocated",    
+            "projectName":"GE Commercial Finance EDW",    
+            "projectSkillDetails":["BackboneJs", "JQuery", "HTML", "CSS"],    
+            "clientsServed": ["MGM", "GE", "Carniege"],    
+            "projectsWorkedOn":["MGM Resorts", "GE Commercial Finance EDW", "AMP"],
+            "location": "Hyderabad",
+            "branch": "SEZ"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.37524176,
+17.44710034
+                ]
+            },
+            "employeeId": 329166,    
+            "employeeName": "Murali Mohan 5",    
+            "doj": "21-10-2013",  
+            "description":"",  
+            "yearsOfExp": 8,    
+            "skills":["AngularJS", "JQuery", "OOJS"],  
+            "majorSkill":"AngularJS",  
+            "role": "Module Lead",    
+            "email": "muralimohan.pulle@techmahindra.com",    
+            "mobileNumber": 9989192323,    
+            "immediateManager": "Bidhan Sutar",    
+            "projectAllocation":"Allocated",    
+            "projectName":"GE Commercial Finance EDW",    
+            "projectSkillDetails":["BackboneJs", "JQuery", "HTML", "CSS"],    
+            "clientsServed": ["MGM", "GE", "Carniege"],    
+            "projectsWorkedOn":["MGM Resorts", "GE Commercial Finance EDW", "AMP"],
+            "location": "Hyderabad",
+            "branch": "SEZ"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.433983,
+17.572041
+                ]
+            },
+            "employeeId": 329166,    
+            "employeeName": "Murali Mohan 6",    
+            "doj": "21-10-2013",  
+            "description":"",  
+            "yearsOfExp": 8,    
+            "skills":["AngularJS", "JQuery", "OOJS"],  
+            "majorSkill":"AngularJS",  
+            "role": "Module Lead",    
+            "email": "muralimohan.pulle@techmahindra.com",    
+            "mobileNumber": 9989192323,    
+            "immediateManager": "Bidhan Sutar",    
+            "projectAllocation":"Allocated",    
+            "projectName":"GE Commercial Fiknance EDW",    
+            "projectSkillDetails":["BackboneJs", "JQuery", "HTML", "CSS"],    
+            "clientsServed": ["MGM", "GE", "Carniege"],    
+            "projectsWorkedOn":["MGM Resorts", "GE Commercial Finance EDW", "AMP"],
+            "location": "Hyderabad",
+            "branch": "SEZ"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.920608,
+18.563222
+                ]
+            },
+            "employeeId": 329166,    
+            "employeeName": "Murali Mohan 7",    
+            "doj": "21-10-2013",  
+            "description":"",  
+            "yearsOfExp": 8,    
+            "skills":["JQuery", "OOJS", "BackboneJS"],  
+            "majorSkill":"AngularJS",  
+            "role": "Module Lead",    
+            "email": "muralimohan.pulle@techmahindra.com",    
+            "mobileNumber": 9989192323,    
+            "immediateManager": "Bidhan Sutar",    
+            "projectAllocation":"Allocated",    
+            "projectName":"GE Commercial Finance EDW",    
+            "projectSkillDetails":["BackboneJs", "JQuery", "HTML", "CSS"],    
+            "clientsServed": ["MGM", "GE", "Carniege"],    
+            "projectsWorkedOn":["MGM Resorts", "GE Commercial Finance EDW", "AMP"],
+            "location": "Hyderabad",
+            "branch": "SEZ"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.920608,
+18.563222
+                ]
+            },
+            "employeeId": 329166,    
+            "employeeName": "Murali Mohan 8",    
+            "doj": "21-10-2013",  
+            "description":"",  
+            "yearsOfExp": 8,    
+            "skills":[ "JQuery", "BackboneJS"],  
+            "majorSkill":"AngularJS",  
+            "role": "Module Lead",    
+            "email": "muralimohan.pulle@techmahindra.com",    
+            "mobileNumber": 9989192323,    
+            "immediateManager": "Bidhan Sutar",    
+            "projectAllocation":"Allocated",    
+            "projectName":"GE Commercial Finance EDW",    
+            "projectSkillDetails":["BackboneJs", "JQuery", "HTML", "CSS"],    
+            "clientsServed": ["MGM", "GE", "Carniege"],    
+            "projectsWorkedOn":["MGM Resorts", "GE Commercial Finance EDW", "AMP"],
+            "location": "Hyderabad",
+            "branch": "SEZ"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.920608,
+18.563222
+                ]
+            },
+            "employeeId": 329166,    
+            "employeeName": "Murali Mohan 9",    
+            "doj": "21-10-2013",  
+            "description":"",  
+            "yearsOfExp": 8,    
+            "skills":["JQuery", "OOJS", "BackboneJS"],  
+            "majorSkill":"AngularJS",  
+            "role": "Module Lead",    
+            "email": "muralimohan.pulle@techmahindra.com",    
+            "mobileNumber": 9989192323,    
+            "immediateManager": "Bidhan Sutar",    
+            "projectAllocation":"Allocated",    
+            "projectName":"GE Commercial Finance EDW",    
+            "projectSkillDetails":["BackboneJs", "JQuery", "HTML", "CSS"],    
+            "clientsServed": ["MGM", "GE", "Carniege"],    
+            "projectsWorkedOn":["MGM Resorts", "GE Commercial Finance EDW", "AMP"],
+            "location": "Hyderabad",
+            "branch": "SEZ"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.920608,
+18.563222
+                ]
+            },
+            "employeeId": 329166,    
+            "employeeName": "Murali Mohan 10",    
+            "doj": "21-10-2013",  
+            "description":"",  
+            "yearsOfExp": 8,    
+            "skills":["AngularJS", "JQuery","BackboneJS"],  
+            "majorSkill":"AngularJS",  
+            "role": "Module Lead",    
+            "email": "muralimohan.pulle@techmahindra.com",    
+            "mobileNumber": 9989192323,    
+            "immediateManager": "Bidhan Sutar",    
+            "projectAllocation":"Allocated",    
+            "projectName":"GE Commercial Finance EDW",    
+            "projectSkillDetails":["BackboneJs", "JQuery", "HTML", "CSS"],    
+            "clientsServed": ["MGM", "GE", "Carniege"],    
+            "projectsWorkedOn":["MGM Resorts", "GE Commercial Finance EDW", "AMP"],
+            "location": "Hyderabad",
+            "branch": "SEZ"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.920608,
+18.563222
+                ]
+            },
+            "employeeId": 329166,    
+            "employeeName": "Murali Mohan 11",    
+            "doj": "21-10-2013",  
+            "description":"",  
+            "yearsOfExp": 8,    
+            "skills":["AngularJS", "OOJS", "BackboneJS"],  
+            "majorSkill":"AngularJS",  
+            "role": "Module Lead",    
+            "email": "muralimohan.pulle@techmahindra.com",    
+            "mobileNumber": 9989192323,    
+            "immediateManager": "Bidhan Sutar",    
+            "projectAllocation":"Allocated",    
+            "projectName":"GE Commercial Finance EDW",    
+            "projectSkillDetails":["BackboneJs", "JQuery", "HTML", "CSS"],    
+            "clientsServed": ["MGM", "GE", "Carniege"],    
+            "projectsWorkedOn":["MGM Resorts", "GE Commercial Finance EDW", "AMP"],
+            "location": "Hyderabad",
+            "branch": "SEZ"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.920608,
+18.563222
+                ]
+            },
+            "employeeId": 329166,    
+            "employeeName": "Murali Mohan 12",    
+            "doj": "21-10-2013",  
+            "description":"",  
+            "yearsOfExp": 8,    
+            "skills":["AngularJS", "OOJS", "BackboneJS"],  
+            "majorSkill":"AngularJS",  
+            "role": "Module Lead",    
+            "email": "muralimohan.pulle@techmahindra.com",    
+            "mobileNumber": 9989192323,    
+            "immediateManager": "Bidhan Sutar",    
+            "projectAllocation":"Allocated",    
+            "projectName":"GE Commercial Finance EDW",    
+            "projectSkillDetails":["BackboneJs", "JQuery", "HTML", "CSS"],    
+            "clientsServed": ["MGM", "GE", "Carniege"],    
+            "projectsWorkedOn":["MGM Resorts", "GE Commercial Finance EDW", "AMP"],
+            "location": "Hyderabad",
+            "branch": "SEZ"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.920608,
+18.563222
+                ]
+            },
+            "employeeId": 329166,    
+            "employeeName": "Murali Mohan 13",    
+            "doj": "21-10-2013",  
+            "description":"",  
+            "yearsOfExp": 8,    
+            "skills":["AngularJS", "OOJS", "BackboneJS"],  
+            "majorSkill":"BackboneJS",  
+            "role": "Module Lead",    
+            "email": "muralimohan.pulle@techmahindra.com",    
+            "mobileNumber": 9989192323,    
+            "immediateManager": "Bidhan Sutar",    
+            "projectAllocation":"Allocated",    
+            "projectName":"GE Commercial Finance EDW",    
+            "projectSkillDetails":["BackboneJs", "JQuery", "HTML", "CSS"],    
+            "clientsServed": ["MGM", "GE", "Carniege"],    
+            "projectsWorkedOn":["MGM Resorts", "GE Commercial Finance EDW", "AMP"],
+            "location": "Hyderabad",
+            "branch": "SEZ"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.920608,
+18.563222
+                ]
+            },
+            "employeeId": 329166,    
+            "employeeName": "Murali Mohan 14",    
+            "doj": "21-10-2013",  
+            "description":"",  
+            "yearsOfExp": 8,    
+            "skills":["AngularJS", "OOJS", "BackboneJS"],  
+            "majorSkill":"BackboneJS",  
+            "role": "Module Lead",    
+            "email": "muralimohan.pulle@techmahindra.com",    
+            "mobileNumber": 9989192323,    
+            "immediateManager": "Bidhan Sutar",    
+            "projectAllocation":"Allocated",    
+            "projectName":"GE Commercial Finance EDW",    
+            "projectSkillDetails":["BackboneJs", "JQuery", "HTML", "CSS"],    
+            "clientsServed": ["MGM", "GE", "Carniege"],    
+            "projectsWorkedOn":["MGM Resorts", "GE Commercial Finance EDW", "AMP"],
+            "location": "Hyderabad",
+            "branch": "SEZ"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.920608,
+18.563222
+                ]
+            },
+            "employeeId": 329166,    
+            "employeeName": "Murali Mohan 15",    
+            "doj": "21-10-2013",  
+            "description":"",  
+            "yearsOfExp": 8,    
+            "skills":["AngularJS", "JQuery", "OOJS", "BackboneJS"],  
+            "majorSkill":"AngularJS",  
+            "role": "Module Lead",    
+            "email": "muralimohan.pulle@techmahindra.com",    
+            "mobileNumber": 9989192323,    
+            "immediateManager": "Bidhan Sutar",    
+            "projectAllocation":"Allocated",    
+            "projectName":"GE Commercial Finance EDW",    
+            "projectSkillDetails":["BackboneJs", "JQuery", "HTML", "CSS"],    
+            "clientsServed": ["MGM", "GE", "Carniege"],    
+            "projectsWorkedOn":["MGM Resorts", "GE Commercial Finance EDW", "AMP"],
+            "location": "Hyderabad",
+            "branch": "SEZ"
+        }
+    ]
+}

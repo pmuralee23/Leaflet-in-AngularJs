@@ -1,0 +1,53 @@
+<div class="content">
+    <div class="mapContainer">
+        <div class="heading" >{{title}}</div>
+
+        <div class="main-control-section navSection">
+            <div class="btn btn-primary list-view-button map-control-button " ng-click="showModal()">List view</div>
+            <div class="btn btn-primary map-control-button emp-reset" ng-click="resetEmp()">Reset</div>
+            <div class=" emp-search">
+                <div class="input-group">
+                  <input type="text" class="form-control" placeholder="Search for..." ng-model="searchEmp" ng-keypress="($event.which === 13)?searchData():0">
+                  <span class="input-group-btn">
+                    <button class="btn btn-default emp-search-button" type="button" ng-click="searchData()"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
+                  </span>
+                  <span class="clear-search" style="" ng-click='clearSearchBox()' ng-show="searchEmp.length>0">×</span>
+                </div><!-- /input-group -->
+            </div><!-- /.col-lg-6 -->
+           
+           <div id="key" class="visible-md-block">
+            <div class="keyItem clearfix">
+                <div class="marker-cluster marker-cluster-small key-icon">
+                    <div></div>
+                </div>
+                <span class="key-value">2-10 Employees</span>
+            </div>
+            <div class="keyItem clearfix">
+                <div class="marker-cluster marker-cluster-medium key-icon">
+                    <div></div>
+                </div>
+                <span class="key-value">11+ Employees</span>
+            </div>
+            <div class="keyItem clearfix">
+                <div class="marker-cluster marker-cluster-large key-icon">
+                    <div></div>
+                </div>
+                <span class="key-value">101+ Employees</span>
+            </div>
+        </div>
+        </div>
+
+        <div id="map"></div>
+        
+
+    </div>
+    <div class="empList">
+        <emp-list-view show='modalShown' data="empData">
+            
+        </emp-list-view>
+    </div>
+    <div class="leaflet-popup-content_tmp" style='display:none;'>
+
+    </div>
+</div>
+
